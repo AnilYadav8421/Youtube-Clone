@@ -1,6 +1,9 @@
 .play-video{
     flex-basis: 69%;
 }
+.play-video video{
+    width: 100%;
+}
 .play-video-info{
     width: 100%;
 }
